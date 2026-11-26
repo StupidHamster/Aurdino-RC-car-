@@ -11,3 +11,4 @@ Components needed:
 <p align="center">
   <img src="wiring-diagram.png" width="800">
 </p>
+If you want to power everything from one battery connect the 5v pin of the l298n to the 5v pin of the aurdino 
