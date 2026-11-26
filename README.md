@@ -6,3 +6,8 @@ Components needed:
 3. L298N motor driver
 4. battery
 5. Car chasis 
+## Circuit Diagram
+
+<p align="center">
+  <img src="wiring-diagram.png" width="800">
+</p>
